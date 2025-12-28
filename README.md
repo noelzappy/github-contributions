@@ -1,10 +1,10 @@
 # Embed GitHub Contributions on Your Web Page
 
-A basic tool to fetch a GitHub user's contributions table and display it in an `iframe`. This provides developers the ability to embed a GutHub contributions table into a portfolio.
+A basic tool to fetch a GitHub user's contributions table and display it in an `iframe`. This provides developers the ability to embed a GitHub contributions table into a portfolio.
 
 ![GitHub Contributions](_readme/screenshot-contributions.png)
 
-> The active version can viewed at:  
+> The active version can be viewed at:  
 > https://pages.codeadam.ca/github-contributions
 
 > An active example can be viewed at:  
